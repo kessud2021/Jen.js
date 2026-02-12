@@ -289,7 +289,7 @@
     "turbo": "2.5.5",
     "typescript": "5.9.2",
     "typescript-eslint": "8.46.0",
-    "unfetch": "4.2.0",
+    "unfetch": "5.0.0",
     "wait-port": "0.2.2",
     "webpack": "5.98.0",
     "webpack-bundle-analyzer": "4.7.0",
